@@ -1,2 +1,2 @@
-# team-work
-Together Everyone Achieves More!
+# TEAM Work
+**T**ogether **E**veryone **A**chieves **M**ore!
